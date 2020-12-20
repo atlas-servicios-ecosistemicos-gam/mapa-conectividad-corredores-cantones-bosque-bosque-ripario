@@ -1,5 +1,5 @@
 ---
-title: "Mapa de conectividad de grupos funcionales de aves dependientes de bosque y bosque ribereño en los corredores biológicos interurbanos María Aguilar y Río Torres y los cantones Curridabat, La Unión, Montes de Oca y San José"
+title: "Mapa de conectividad de grupos funcionales de aves dependientes de bosque y bosque ribereño en CBIMA, CBIRT y los cantones Curridabat, La Unión, Montes de Oca y San José"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
